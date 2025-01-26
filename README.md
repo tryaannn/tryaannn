@@ -14,7 +14,7 @@
  
  🌱 I’m currently exploring JavaScript and its ecosystem, ex **React, Next, Node**
 
-💬 Ask me about **anything [here](https://instagram.com/tryaannn_)**
+💬 Ask me about **anything [here](https://github.com/tryaannn/tryaannn/issues/1)**
 
  </div>
  
