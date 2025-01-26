@@ -62,6 +62,15 @@
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=tryaannn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryaannn&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=3SL5wvAfx9OmfDSXYD43nP&cover_image=true&theme=novatorem" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tryaannn&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tryaannn&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tryaannn&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tryaannn&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tryaannn&theme=github_dark&utcOffset=7" />
 </div>
 
 <br/><br/>
