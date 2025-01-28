@@ -1,5 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tryaannn.tryaannn" />
 
+<div>
+ <img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIybmI0a2Q5eHV2Zm9peHpzeWVmOTlxYWpudW04Z3VxeW5sdjNhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2EEWKLtxBn2khm075/giphy.gif" alt="gif" />
+</div>
+
+<br>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tryan!;+Let's+work+together" />
 </h1>
@@ -58,9 +64,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="355" src="https://github-readme-stats.vercel.app/api?username=tryaannn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="360" src="https://github-readme-stats.vercel.app/api?username=tryaannn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryaannn&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIybmI0a2Q5eHV2Zm9peHpzeWVmOTlxYWpudW04Z3VxeW5sdjNhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2EEWKLtxBn2khm075/giphy.gif" alt="gif" />
 </div>
 
 <br/><br/>
