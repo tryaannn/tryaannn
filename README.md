@@ -58,9 +58,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api?username=tryaannn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=tryaannn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tryaannn&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width="325" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIybmI0a2Q5eHV2Zm9peHpzeWVmOTlxYWpudW04Z3VxeW5sdjNhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2EEWKLtxBn2khm075/giphy.gif" alt="gif" />
+  <img width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIybmI0a2Q5eHV2Zm9peHpzeWVmOTlxYWpudW04Z3VxeW5sdjNhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2EEWKLtxBn2khm075/giphy.gif" alt="gif" />
 </div>
 
 <br/><br/>
