@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tryaannn.tryaannn" />
 
-<div>
- <img width="300" align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIybmI0a2Q5eHV2Zm9peHpzeWVmOTlxYWpudW04Z3VxeW5sdjNhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2EEWKLtxBn2khm075/giphy.gif" alt="gif" />
+<div align="center">
+ <img width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXIybmI0a2Q5eHV2Zm9peHpzeWVmOTlxYWpudW04Z3VxeW5sdjNhMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2EEWKLtxBn2khm075/giphy.gif" alt="gif" />
 </div>
 
 <br>
